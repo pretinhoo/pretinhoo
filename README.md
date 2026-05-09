@@ -1,41 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Preto&fontColor=ffffff&desc=Rust%20•%20Hacking%20•%20Reversing%20•%20Games&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Preto&fontColor=ffffff&desc=Rust%20•%20Reverse%20Engineering%20•%20Binary%20Tooling%20•%20Game%20Internals&descAlign=50&fontAlign=50&fontAlignY=45" 
+    width="100%" 
+    alt="header"
+  />
 </p>
 
-<h2 align="center" style="color:white;">👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+💡 Passionate about reverse engineering, low-level systems, and game internals.
+</p>
+
+<p align="center">
+🦀 Currently building RevLang, a low-level scripting language for binary analysis and automation.
+</p>
+
+<p align="center">
+✨ Exploring binary formats, memory structures, Android internals, and automation tooling.
+</p>
+
+<br>
 
 <div align="center">
 
-<p align="center" style="color:white; font-size:16px; max-width:600px;">
-💡 Passionate about <b>reversing</b>, <b>games</b>, and <b>hacking</b><br><br>
-✨ I love so much learning new ways to use reversing engineering.
+| 💭 | **Currently creating** | RevLang |
+|---|---|---|
+| 📚 | **Focused on** | Reverse Engineering & Binary Tooling |
+| 📬 | **Contact** | <a href="mailto:rivero.robert@gmail.com">rivero.robert@gmail.com</a> |
+
+</div>
+
+<br>
+
+<h2 align="center">🦀 RevLang</h2>
+
+<p align="center">
+A small scripting language for reverse engineers.
 </p>
 
-</div>
+<p align="center">
+Focused on memory inspection, binary parsing, game structures, automation, and Android tooling.
+</p>
 
-<div align="center">
-
-<table style="color:white;">
-  <tr>
-    <td>💭</td>
-    <td><b>Currently creating</b></td>
-    <td>My own programming language</td>
-  </tr>
-  <tr>
-    <td>📬</td>
-    <td><b>Contact</b></td>
-    <td><a href="mailto:rivero.robert@gmail.com">rivero.robert@gmail.com</a></td>
-  </tr>
-</table>
-
-</div>
+<br>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=pretinhoo&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=pretinhoo&show_icons=true&count_private=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=S4IL21&show_icons=true&count_private=true&theme=default" height="200px">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=pretinhoo&show_icons=true&count_private=true&theme=default" height="200px">
   </picture>
 
   <picture>
@@ -46,8 +61,11 @@
 
 </div>
 
-<h3 align="center" style="color:white;">
-  🚀 Coding, Reversing, and Hacking.
+<h3 align="center">
+🚀 Exploring low-level systems, tooling, and game internals.
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"
+/>
